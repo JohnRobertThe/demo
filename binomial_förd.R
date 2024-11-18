@@ -12,7 +12,7 @@ library (splines)
 library(MASS)
 
 
-
+# ssssss
 
 
 # Binomial Data
